@@ -1,0 +1,10 @@
+{
+  "name": "@scope/usage2",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "build-package"
+  },
+  "dependencies": {
+    "@scope/scripts": "workspace:^"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@scope/scripts",
+  "version": "0.0.0",
+  "bin": {
+    "build-package": "./build-package.js"
+  }
+}
